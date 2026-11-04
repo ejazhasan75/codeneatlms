@@ -2,8 +2,8 @@
 /**
  * Plugin Name: CodeNeat LMS
  * Plugin URI: https://codeneat.com
- * Description: Multi-school LMS foundation for the main WordPress site.
- * Version: 0.2.0
+ * Description: Multi-school LMS foundation for the main site.
+ * Version: 0.1.0
  * Author: CodeNeat
  * Text Domain: codeneat-lms
  */
